@@ -9,7 +9,7 @@ Proxy checker that verifies if proxies are able to connect to PokemonGo servers.
  * Python 2
  * Multi-threaded proxy checker
  * HTTP and SOCKS protocols
- * Test if proxies are anonimous
+ * Test if proxies are anonymous
  * Output final proxy list in several formats
 
 ## Documentation

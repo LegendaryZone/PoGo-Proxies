@@ -351,7 +351,7 @@ def check_proxies(args, proxies):
             proxy,
             args.timeout)
 
-        future_niantic = start_request_ptc_login(
+        future_niantic = start_request_niantic(
             niantic_session,
             proxy,
             args.timeout)
